@@ -3,14 +3,14 @@
 I'm Marco 💻
 
 <a href="https://github.com/marcoj18">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoJ18&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="marcoj18's github stats" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoj18&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="marcoj18's github stats" />
 </a>
 
 
 
 ### 🧰 Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoJ18&layout=compact&theme=dracula&hide_border=true)](https://github.com/MarcoJ18)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoj18&layout=compact&theme=dracula&hide_border=true)](https://github.com/marcoj18)
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
